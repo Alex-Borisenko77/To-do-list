@@ -58,7 +58,7 @@ li {
   align-items: center;
   padding: 40px;
 }
-.text__field {
+#text__field {
   height: 40px;
   border-radius: 3px;
   border: 1px solid #8052ec;
@@ -75,7 +75,7 @@ li {
   background-color: #8052ec;
   outline: none;
 }
-.wish__list-item {
+#wish__list-item {
   border-bottom: 1px solid rgb(184, 184, 184);
   padding: 0 10px 10px;
   margin-bottom: 15px;
